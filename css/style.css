@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Nunito:wght@200&display=swap');
+
+body {
+    background-color: rgb(40, 34, 66);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    font-family: 'Dela Gothic One', cursive;
+    color: brown;
+    font-size: 4rem;
+}
+
+.main {
+    border: 2px solid greenyellow; 
+    width: 50%; 
+    margin: 1rem auto;
+}   
+
+.main div{
+    width: 200px; 
+    height: 200px; 
+    border: 2px solid;
+    border-radius: 50%;
+    margin: 1rem auto;
+}   
+
+#blue{
+    border-color: blue;
+}  
+
+#purple{
+    border-color: purple;
+}  
+
+#lime{
+    border-color: lime;
+}   
+
+.footer {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    font-size: 2rem;
+}
